@@ -1,0 +1,20 @@
+		   after fusion	 after using identity   ancilla intro      before TODD  after TODD (>20 times) 
+/barenco_tof_3            16            13                  3                  13          13
+/barenco_tof_4            28            24                  7                  24          24
+/barenco_tof_5            40            36                  11                  36          34
+/csla_mux_3               62            48                  6                  48          40
+/gf2^E4_mult              68            61                  0                  61          55/53/51/47
+/gf2^E5_mult              115            97                 0                  97          89/91/87/84
+/gf2^E6_mult              150            134                0                 134         128/130/126/124/122/118
+/gf2^E7_mult              217            192                0                 192         184/182/179/178/176/175
+/gf2^E8_mult              264            247                0                 247         235/241/231/229
+/hwb6.qc                  75            62                  20                  62          52
+/mod5_4                   8            7                    0                   7           7
+/mod_mult_55              35            26                  3                  26          18
+/mod_red_21               73            63                  17                  63          55
+/rc_adder_6               47            39                  10                  39          37
+/tof_10                   71            58                  16                  58          56
+/tof_3                    15            13                  2                  13          13
+/tof_4                    23            19                  4                  19          19
+/tof_5                    31            26                  6                  26          26
+/vbe_adder_3              24            20                  4                  20          20
